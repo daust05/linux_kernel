@@ -1,0 +1,1 @@
+/home/daust05/linux/linux-5.4.71/scripts/gdb/vmlinux-gdb.py
